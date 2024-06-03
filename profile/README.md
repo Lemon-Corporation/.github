@@ -69,7 +69,7 @@ Stay updated with our latest news and projects by following us on social media:
 
 ## 📧 Contact Us
 
-For any inquiries or support, please reach out to us at [support@lemon-corporation.com](mailto:support@lemoncorp.space).
+For any inquiries or support, please reach out to us at [support@lemoncorp.space](mailto:support@lemoncorp.space).
 
 ---
 

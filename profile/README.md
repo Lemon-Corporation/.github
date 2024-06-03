@@ -65,12 +65,11 @@ All of our projects are licensed under the [MIT License](LICENSE). This means yo
 
 Stay updated with our latest news and projects by following us on social media:
 
-[![Twitter](https://img.shields.io/twitter/follow/lemoncorp?style=social&logo=twitter&color=yellow)](https://twitter.com/lemoncorp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lemon--corporation-blue?style=social&logo=linkedin&color=yellow)](https://linkedin.com/company/lemon-corporation)
+[![Telegram](https://img.shields.io/telegram/follow/lemoncorp?style=social&logo=twitter&color=yellow)](https://t.me/lemoncorp)
 
 ## 📧 Contact Us
 
-For any inquiries or support, please reach out to us at [support@lemon-corporation.com](mailto:support@lemon-corporation.com).
+For any inquiries or support, please reach out to us at [support@lemon-corporation.com](mailto:support@lemoncorp.space).
 
 ---
 

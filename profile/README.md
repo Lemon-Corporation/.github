@@ -16,7 +16,7 @@ Lemon Corporation is a company specializing in the development of innovative pro
 LemonID is the most secure Single Sign-On (SSO) system in the world. Designed with cutting-edge security features, it ensures your identity and data are protected at all times.
 - **Status**: In development
 
-<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="250" height="100" alt="LemonID">
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="280" height="100" alt="LemonID">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -28,16 +28,14 @@ Lemma is the ultimate general artificial intelligence designed to assist you in 
 <img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/undefined_image%20(53)%201.png" width="180" height="200" alt="Lemma">
 
 #### Project Progress
-![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
+![15%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ### [LemOS](https://github.com/lemon-corporation/lemos)
 LemOS is an operating system packed with AI features, making it an ideal environment for both programmers and general users. It's designed to be user-friendly and highly efficient.
 - **Status**: In development
 
-<img src="https://lemon-corporation.com/assets/lemos.png" width="200" height="200" alt="LemOS">
-
 #### Project Progress
-![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
+![2%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ### [Chains Of Magic](https://github.com/lemon-corporation/chains-of-magic)
 Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. With immersive gameplay and captivating storylines, it's set to be the best in its genre.
@@ -46,7 +44,7 @@ Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. Wi
 <img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/ChainsOfMagic.png" width="200" height="200" alt="Chains Of Magic">
 
 #### Project Progress
-![80%](https://progress-bar.dev/80/?scale=100&width=300&color=bdb76b&suffix=%)
+![81%](https://progress-bar.dev/80/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ## 📊 Our Stats
 - **Projects Completed**: 5+

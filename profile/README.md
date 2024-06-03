@@ -1,12 +1,12 @@
 # 🍋 Lemon Corporation
 
-![Lemon Corporation](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/IMG_7608.gif)
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/IMG_7608.gif" width="400" height="300" alt="Lemon Corporation">
 
 Welcome to the official GitHub page of **Lemon Corporation**! We are dedicated to developing innovative solutions that enhance productivity and drive success. Our mission is to create cutting-edge technology that empowers businesses around the world.
 
 ## 🌟 About Us
 
-Lemon Corporation is a leading provider of innovative tech solutions aimed at simplifying complex business processes. Our expertise spans various domains including software development, data analytics, artificial intelligence, and more.
+Lemon Corporation is a company specializing in the development of innovative products in the field of neural networks, applications, technology, and music. Our main goal is to create new technologies that will lead the world into a new era of technology and innovation. We strive to ensure that our products and services improve people's lives and are accessible to everyone worldwide.
 
 🔗 [Visit our website](https://lemon-corporation.com)
 

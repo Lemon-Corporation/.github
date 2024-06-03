@@ -16,7 +16,7 @@ Lemon Corporation is a company specializing in the development of innovative pro
 LemonID is the most secure Single Sign-On (SSO) system in the world. Designed with cutting-edge security features, it ensures your identity and data are protected at all times.
 - **Status**: In development
 
-![LemonID](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png)
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="200" height="200" alt="LemonID">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -25,7 +25,7 @@ LemonID is the most secure Single Sign-On (SSO) system in the world. Designed wi
 Lemma is the ultimate general artificial intelligence designed to assist you in various tasks, making your life easier and more productive.
 - **Status**: In development
 
-![Lemma](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/undefined_image%20(53)%201.png)
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/undefined_image%20(53)%201.png" width="200" height="200" alt="Lemma">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -34,7 +34,7 @@ Lemma is the ultimate general artificial intelligence designed to assist you in 
 LemOS is an operating system packed with AI features, making it an ideal environment for both programmers and general users. It's designed to be user-friendly and highly efficient.
 - **Status**: In development
 
-![LemOS](https://lemon-corporation.com/assets/lemos.png)
+<img src="https://lemon-corporation.com/assets/lemos.png" width="200" height="200" alt="LemOS">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -43,7 +43,7 @@ LemOS is an operating system packed with AI features, making it an ideal environ
 Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. With immersive gameplay and captivating storylines, it's set to be the best in its genre.
 - **Status**: 80% complete in pre-Alpha
 
-![Chains Of Magic](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/ChainsOfMagic.png)
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/ChainsOfMagic.png" width="200" height="200" alt="Chains Of Magic">
 
 #### Project Progress
 ![80%](https://progress-bar.dev/80/?scale=100&width=300&color=bdb76b&suffix=%)

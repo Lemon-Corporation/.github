@@ -19,7 +19,7 @@ LemonID is the most secure Single Sign-On (SSO) system in the world. Designed wi
 ![LemonID](https://lemon-corporation.com/assets/lemonid.png)
 
 #### Project Progress
-![0%](https://progress-bar.dev/0/?scale=100&width=300&color=yellow&suffix=%)
+![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ### [Lemma](https://github.com/lemon-corporation/lemma)
 Lemma is the ultimate general artificial intelligence designed to assist you in various tasks, making your life easier and more productive.
@@ -28,7 +28,7 @@ Lemma is the ultimate general artificial intelligence designed to assist you in 
 ![Lemma](https://lemon-corporation.com/assets/lemma.png)
 
 #### Project Progress
-![0%](https://progress-bar.dev/0/?scale=100&width=300&color=yellow&suffix=%)
+![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ### [LemOS](https://github.com/lemon-corporation/lemos)
 LemOS is an operating system packed with AI features, making it an ideal environment for both programmers and general users. It's designed to be user-friendly and highly efficient.
@@ -37,7 +37,7 @@ LemOS is an operating system packed with AI features, making it an ideal environ
 ![LemOS](https://lemon-corporation.com/assets/lemos.png)
 
 #### Project Progress
-![0%](https://progress-bar.dev/0/?scale=100&width=300&color=yellow&suffix=%)
+![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ### [Chains Of Magic](https://github.com/lemon-corporation/chains-of-magic)
 Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. With immersive gameplay and captivating storylines, it's set to be the best in its genre.
@@ -46,7 +46,13 @@ Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. Wi
 ![Chains Of Magic](https://lemon-corporation.com/assets/chains-of-magic.png)
 
 #### Project Progress
-![80%](https://progress-bar.dev/80/?scale=100&width=300&color=yellow&suffix=%)
+![80%](https://progress-bar.dev/80/?scale=100&width=300&color=bdb76b&suffix=%)
+
+## 📊 Our Stats
+- **Projects Completed**: 50+
+- **Active Contributors**: 200+
+- **Stars on GitHub**: 10,000+
+- **Forks on GitHub**: 2,500+
 
 ## 💡 How to Contribute
 

@@ -16,7 +16,7 @@ Lemon Corporation is a company specializing in the development of innovative pro
 LemonID is the most secure Single Sign-On (SSO) system in the world. Designed with cutting-edge security features, it ensures your identity and data are protected at all times.
 - **Status**: In development
 
-<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="100" height="200" alt="LemonID">
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="200" height="100" alt="LemonID">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)

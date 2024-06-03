@@ -16,7 +16,7 @@ Lemon Corporation is a company specializing in the development of innovative pro
 LemonID is the most secure Single Sign-On (SSO) system in the world. Designed with cutting-edge security features, it ensures your identity and data are protected at all times.
 - **Status**: In development
 
-<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="200" height="100" alt="LemonID">
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png" width="250" height="100" alt="LemonID">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -25,7 +25,7 @@ LemonID is the most secure Single Sign-On (SSO) system in the world. Designed wi
 Lemma is the ultimate general artificial intelligence designed to assist you in various tasks, making your life easier and more productive.
 - **Status**: In development
 
-<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/undefined_image%20(53)%201.png" width="200" height="200" alt="Lemma">
+<img src="https://github.com/Lemon-Corporation/.github/blob/main/profile/data/undefined_image%20(53)%201.png" width="180" height="200" alt="Lemma">
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)

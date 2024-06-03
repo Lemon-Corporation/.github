@@ -18,11 +18,17 @@ LemonID is the most secure Single Sign-On (SSO) system in the world. Designed wi
 
 ![LemonID](https://lemon-corporation.com/assets/lemonid.png)
 
+#### Project Progress
+![0%](https://progress-bar.dev/0/)
+
 ### [Lemma](https://github.com/lemon-corporation/lemma)
 Lemma is the ultimate general artificial intelligence designed to assist you in various tasks, making your life easier and more productive.
 - **Status**: In development
 
 ![Lemma](https://lemon-corporation.com/assets/lemma.png)
+
+#### Project Progress
+![0%](https://progress-bar.dev/0/)
 
 ### [LemOS](https://github.com/lemon-corporation/lemos)
 LemOS is an operating system packed with AI features, making it an ideal environment for both programmers and general users. It's designed to be user-friendly and highly efficient.
@@ -30,11 +36,17 @@ LemOS is an operating system packed with AI features, making it an ideal environ
 
 ![LemOS](https://lemon-corporation.com/assets/lemos.png)
 
+#### Project Progress
+![0%](https://progress-bar.dev/0/)
+
 ### [Chains Of Magic](https://github.com/lemon-corporation/chains-of-magic)
 Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. With immersive gameplay and captivating storylines, it's set to be the best in its genre.
 - **Status**: 80% complete in pre-Alpha
 
 ![Chains Of Magic](https://lemon-corporation.com/assets/chains-of-magic.png)
+
+#### Project Progress
+![80%](https://progress-bar.dev/80/)
 
 ## 💡 How to Contribute
 
@@ -56,7 +68,7 @@ Stay updated with our latest news and projects by following us on social media:
 
 ## 📧 Contact Us
 
-For any inquiries or support, please reach out to us at [support@lemon-corporation.com](mailto:support@lemoncorp.space).
+For any inquiries or support, please reach out to us at [support@lemon-corporation.com](mailto:support@lemon-corporation.com).
 
 ---
 

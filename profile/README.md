@@ -16,7 +16,7 @@ Lemon Corporation is a company specializing in the development of innovative pro
 LemonID is the most secure Single Sign-On (SSO) system in the world. Designed with cutting-edge security features, it ensures your identity and data are protected at all times.
 - **Status**: In development
 
-![LemonID](https://lemon-corporation.com/assets/lemonid.png)
+![LemonID](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/Group%2048.png)
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -25,7 +25,7 @@ LemonID is the most secure Single Sign-On (SSO) system in the world. Designed wi
 Lemma is the ultimate general artificial intelligence designed to assist you in various tasks, making your life easier and more productive.
 - **Status**: In development
 
-![Lemma](https://lemon-corporation.com/assets/lemma.png)
+![Lemma](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/undefined_image%20(53)%201.png)
 
 #### Project Progress
 ![0%](https://progress-bar.dev/0/?scale=100&width=300&color=bdb76b&suffix=%)
@@ -43,16 +43,14 @@ LemOS is an operating system packed with AI features, making it an ideal environ
 Chains Of Magic is the ultimate MMORPG game set in an anime-style open world. With immersive gameplay and captivating storylines, it's set to be the best in its genre.
 - **Status**: 80% complete in pre-Alpha
 
-![Chains Of Magic](https://lemon-corporation.com/assets/chains-of-magic.png)
+![Chains Of Magic](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/ChainsOfMagic.png)
 
 #### Project Progress
 ![80%](https://progress-bar.dev/80/?scale=100&width=300&color=bdb76b&suffix=%)
 
 ## 📊 Our Stats
-- **Projects Completed**: 50+
-- **Active Contributors**: 200+
-- **Stars on GitHub**: 10,000+
-- **Forks on GitHub**: 2,500+
+- **Projects Completed**: 5+
+- **Active Contributors**: 30+
 
 ## 💡 How to Contribute
 

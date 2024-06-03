@@ -1,6 +1,6 @@
 # 🍋 Lemon Corporation
 
-![Lemon Corporation](https://lemon-corporation.com/assets/logo.png)
+![Lemon Corporation](https://github.com/Lemon-Corporation/.github/blob/main/profile/data/IMG_7608.gif)
 
 Welcome to the official GitHub page of **Lemon Corporation**! We are dedicated to developing innovative solutions that enhance productivity and drive success. Our mission is to create cutting-edge technology that empowers businesses around the world.
 

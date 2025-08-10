@@ -12,8 +12,8 @@ Lemon Corporation is a company specializing in the development of innovative pro
 
 
 ## 📊 Our Stats
-- **Projects Completed**: 5+
-- **Active Contributors**: 30+
+- **Projects Completed**: 20+
+- **Active Contributors**: 20+
 
 ## 💡 How to Contribute
 

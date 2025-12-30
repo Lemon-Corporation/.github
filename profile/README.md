@@ -11,10 +11,6 @@ Lemon Corporation is a company specializing in the development of innovative pro
 🔗 [Visit our website](https://lemon-corporation.com)
 
 
-## 📊 Our Stats
-- **Projects Completed**: 20+
-- **Active Contributors**: 20+
-
 ## 💡 How to Contribute
 
 We welcome contributions from the community! If you are interested in contributing to our projects, please take a look at our [Contributing Guide](CONTRIBUTING.md) for guidelines on how to get started.
